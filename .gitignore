@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/code/.vs/code/v15
