@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="quicksort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CourseSchedule.cpp">
+    <ClCompile Include="StatePattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

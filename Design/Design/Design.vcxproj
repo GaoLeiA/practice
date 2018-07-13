@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{EE867D71-B353-419B-8284-2F1CF58A4058}</ProjectGuid>
-    <RootNamespace>code</RootNamespace>
+    <ProjectGuid>{10CCC969-1F0B-4B71-A389-50224379FCC4}</ProjectGuid>
+    <RootNamespace>Design</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CourseSchedule.cpp" />
-    <ClCompile Include="quicksort.cpp" />
+    <ClCompile Include="StatePattern.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
