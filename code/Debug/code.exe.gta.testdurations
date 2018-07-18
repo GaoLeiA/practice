@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\projects\practice\code\Debug\code.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="quicksorttest.sorttest" Duration="1" />
+    <TestDuration Test="quicksorttest1.sorttest" Duration="2" />
+  </TestDurations>
+</GtaTestDurations>

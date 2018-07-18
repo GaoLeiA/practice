@@ -18,6 +18,12 @@
     <ClCompile Include="StatePattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ParkingLot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WebCrawler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

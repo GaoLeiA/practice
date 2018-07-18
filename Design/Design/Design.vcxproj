@@ -115,7 +115,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ParkingLot.cpp" />
     <ClCompile Include="StatePattern.cpp" />
+    <ClCompile Include="WebCrawler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
