@@ -32,3 +32,11 @@
 *.app
 /code/.vs/code/v15
 /Design/.vs/Design/v15
+/code/.vs/code/v16
+/code/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.0
+/code/codeut/Debug
+/code/Debug/gtest_main.pdb
+/code/Debug/gtest.pdb
+/code/Debug/codeut.pdb
+/code/Debug/codeut.ilk
+/code/Debug/code.ilk

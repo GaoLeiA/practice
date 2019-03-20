@@ -121,12 +121,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CourseSchedule.cpp" />
-    <ClCompile Include="longestPalindrome.cpp" />
-    <ClCompile Include="quicksort.cpp" />
-    <ClCompile Include="testmain.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
